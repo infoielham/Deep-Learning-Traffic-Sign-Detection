@@ -9,9 +9,7 @@
 
 ## Overview
 
-An effective traffic signing system is vital for the road safety and for the efficient use of the road network. The driver could be constructed by traffic and not notice any of the signs.
-
-Our product can detect traffic signs with high level accuracy while driving and display it to the driver this can be reduced accidents, violation and tragic deaths.
+An effective traffic signing system is vital for the road safety and for the efficient use of the road network. The driver could be constructed by traffic and not notice any of the signs.Our product can detect traffic signs with high level accuracy while driving and display it to the driver this can be reduced accidents, violation and tragic deaths.
 
 
 
